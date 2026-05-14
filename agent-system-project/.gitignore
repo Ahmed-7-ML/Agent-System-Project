@@ -1,0 +1,12 @@
+# Environment Variables
+.env
+
+# Poetry
+__pycache__/
+*.pyc
+poetry.lock
+
+# Virtual Environment
+.venv/
+
+/tests
